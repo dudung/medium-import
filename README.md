@@ -3,8 +3,7 @@ Create a post in GitHub to be imported to Medium story.
 + kevinMEH, "How to Backdate your Medium Posts (2023)", Medium, 17 May 2022, url <https://liaogg.medium.com/backdating-your-medium-posts-2022-c9532e9993a3> [20230708].
 
 # the post
-+ [see](post.html)
-+ [edit](https://github.com/dudung/medium-import/edit/main/post.html)
++ template
 
 ```html
 <!DOCTYPE html>
@@ -31,5 +30,6 @@ Create a post in GitHub to be imported to Medium story.
 </body>
 
 </html>
-
 ```
++ [see](post.html)
++ [edit](https://github.com/dudung/medium-import/edit/main/post.html)
